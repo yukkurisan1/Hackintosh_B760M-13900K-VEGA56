@@ -1,4 +1,4 @@
-https://github.com/yukkurisan1/Hackintosh_B760M-13900K-VEGA56/blob/main/SCR-20260915-tgtr.png
+<img width="759" height="450" alt="image" src="https://github.com/user-attachments/assets/6c0aa6b9-4fe2-4299-bf4f-ac9040e4349c" />
 
 CPU: Intel Core i9-13900K (8P+16E)
 
