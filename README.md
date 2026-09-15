@@ -1,8 +1,13 @@
 CPU: Intel Core i9-13900K (8P+16E)
+
 MB: ASUS TUF GAMING B760M-PLUS D4
+
 RAM: 32 GB (2x16 GB) DDR4-3200
+
 GPU: MSI Radeon RX Vega 56 Air Boost 8G OC
+
 Audio: Topping DX1 USB DAC
+
 LAN: Realtek RTL8125 2.5GbE
 
 SMBIOS: MacPro7,1
