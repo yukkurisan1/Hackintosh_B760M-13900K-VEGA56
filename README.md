@@ -15,7 +15,7 @@
 | Audio | Topping DX1 USB DAC |
 | LAN | Realtek RTL8125 2.5GbE |
 | SMBIOS | MacPro7,1 |
-| Bootloader | OpenCore 1.0.8 |
+| Bootloader | OpenCore 1.0.9 |
 | macOS | Tahoe 26.6.2 (25G83) |
 
 ---
