@@ -1,3 +1,5 @@
+https://github.com/yukkurisan1/Hackintosh_B760M-13900K-VEGA56/blob/main/SCR-20260915-tgtr.png
+
 CPU: Intel Core i9-13900K (8P+16E)
 
 MB: ASUS TUF GAMING B760M-PLUS D4
